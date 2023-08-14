@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 //details for mysql
 $db['mysql'] = array(
-	'dsn'	=> 'mysql:hostname=localhost; dbname=1410inventory',
+	'dsn'	=> 'mysql:hostname=localhost; dbname=swis',
 	'hostname' => '',
 	'username' => 'root',
 	'password' => '',
